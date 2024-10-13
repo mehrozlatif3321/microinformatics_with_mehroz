@@ -1,3 +1,3 @@
 # microinformatics_with_mehroz
-Author: Mehroz Latif \
+Author: Mehroz Latif <br>
 Contact: mehrozlatif3321@gmail.com
